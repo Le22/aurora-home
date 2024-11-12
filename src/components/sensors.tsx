@@ -20,37 +20,37 @@ const data = [
   {
     category: "Humidité",
     title: "",
-    src: "/humidity.webp",
+    src: "humidity.webp",
   },
   {
     category: "Luminosité",
     title: "",
-    src: "/luminosity.webp",
+    src: "luminosity.webp",
   },
   {
     category: "Thermomètre",
     title: "",
-    src: "/thermometre.webp",
+    src: "thermometre.webp",
   },
   {
     category: "Décibels",
     title: "",
-    src: "/decibel.webp",
+    src: "decibel.webp",
   },
 
   {
     category: "Radon",
     title: "",
-    src: "/radon.webp",
+    src: "radon.webp",
   },
   {
     category: "CO2",
     title: "",
-    src: "/co2.webp",
+    src: "co2.webp",
   },
   {
     category: "Geiger",
     title: "",
-    src: "/geiger.webp",
+    src: "geiger.webp",
   },
 ];

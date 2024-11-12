@@ -64,7 +64,7 @@ function App() {
           loop
           controls
           className="w-2/3 h-auto object-cover rounded-2xl"
-          src="/AuroraHome.mp4"
+          src="AuroraHome.mp4"
         />
       </div>
       <Sensors />
