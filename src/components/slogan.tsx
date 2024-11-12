@@ -4,7 +4,7 @@ const Slogan = () => {
   return (
     <div className="h-screen flex items-center justify-around">
       <div className="flex flex-col gap-8">
-        <h2 className="font-medium text-4xl text-white">
+        <h2 className="font-medium text-5xl text-white">
           Vous êtes passionné par l'IoT et l'open source ?
         </h2>
         <p className="leading-[150%] text-lg text-neutral-300">
@@ -23,7 +23,7 @@ const Slogan = () => {
       </div>
 
       <GlareCard className="flex flex-col items-center justify-center">
-        <p className="text-white font-bold text-xl mt-4">Rejoindre</p>
+        <p className="text-white font-bold text-xl mt-4">Rejoignez nous</p>
       </GlareCard>
     </div>
   );
