@@ -59,6 +59,14 @@ function App() {
       <div className="h-screen bg-black flex items-center justify-center">
         <TextHoverEffect text="AURORA" />
       </div>
+      <div className="my-40 flex items-center justify-center">
+        <video
+          loop
+          controls
+          className="w-2/3 h-auto object-cover rounded-2xl"
+          src="/AuroraHome.mp4"
+        />
+      </div>
       <Sensors />
       <Features />
       <Slogan />
