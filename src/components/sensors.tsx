@@ -9,7 +9,7 @@ export function Sensors() {
   return (
     <div className="w-full h-full py-20 dark bg-black" id="aurora-text">
       <h2 className="max-w-7xl pl-4 mx-auto text-xl md:text-5xl font-bold text-neutral-800 dark:text-neutral-200 font-sans">
-        Une solutions complete
+        Une solutions complète
       </h2>
       <Carousel items={cards} />
     </div>
@@ -19,38 +19,38 @@ export function Sensors() {
 const data = [
   {
     category: "Humidité",
-    title: "You can do more with AI.",
+    title: "",
     src: "/humidity.webp",
   },
   {
     category: "Luminosité",
-    title: "Enhance your productivity.",
+    title: "",
     src: "/luminosity.webp",
   },
   {
     category: "Product",
-    title: "Launching the new Apple Vision Pro.",
+    title: "",
     src: "/thermometre.webp",
   },
   {
     category: "Décibels",
-    title: "Launching the new Apple Vision Pro.",
+    title: "",
     src: "/decibel.webp",
   },
 
   {
     category: "Radon",
-    title: "Maps for your iPhone 15 Pro Max.",
+    title: "",
     src: "/radon.webp",
   },
   {
     category: "CO2",
-    title: "Photography just got better.",
+    title: "",
     src: "/co2.webp",
   },
   {
     category: "Geiger",
-    title: "Hiring for a Staff Software Engineer",
+    title: "",
     src: "/geiger.webp",
   },
 ];

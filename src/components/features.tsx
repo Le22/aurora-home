@@ -10,7 +10,7 @@ export function Features() {
     {
       title: "100% open-source",
       description:
-        "Track and manage your project issues with ease using our intuitive interface.",
+        "Concevez vous même votre Aurora, et partagez vos créations avec la communauté.",
       skeleton: <SkeletonOne />,
       className:
         "col-span-1 lg:col-span-4 border-b lg:border-r dark:border-neutral-800",
@@ -18,14 +18,14 @@ export function Features() {
     {
       title: "Compatiblité optimale",
       description:
-        "Capture stunning photos effortlessly using our advanced AI technology.",
+        "Aurora est compatible avec tous les systèmes domotique, et peut être utilisé avec n'importe quel appareil.",
       skeleton: <SkeletonTwo />,
       className: "border-b col-span-1 lg:col-span-2 dark:border-neutral-800",
     },
     {
       title: "Simple à prendre en main",
       description:
-        "Whether its you or Tyler Durden, you can get to know about our product on YouTube",
+        "Avec notre interface intuitive, vous pourrez configurer votre Aurora en quelques minutes.",
       skeleton: <SkeletonThree />,
       className:
         "col-span-1 lg:col-span-3 lg:border-r  dark:border-neutral-800",
@@ -33,7 +33,7 @@ export function Features() {
     {
       title: "Plusieurs outil en un",
       description:
-        "With our blazing fast, state of the art, cutting edge, we are so back cloud servies (read AWS) - you can deploy your model in seconds.",
+        "Aurora regroupe plusieurs outils en un seul, pour vous simplifier la vie.",
       skeleton: <SkeletonFour />,
       className: "col-span-1 lg:col-span-3 border-b lg:border-none",
     },
@@ -42,12 +42,12 @@ export function Features() {
     <div className="relative z-20 py-10 lg:py-40 w-full p-40 mx-auto dark bg-black">
       <div className="px-8">
         <h4 className="text-3xl lg:text-5xl lg:leading-tight max-w-5xl mx-auto text-center tracking-tight font-medium text-black dark:text-white">
-          Packed with thousands of features
+          Tout ce dont vous avez besoin pour votre maison
         </h4>
 
         <p className="text-sm lg:text-base  max-w-2xl  my-4 mx-auto text-neutral-500 text-center font-normal dark:text-neutral-300">
-          From Image generation to video generation, Everything AI has APIs for
-          literally everything. It can even create this website copy for you.
+          Aurora est une solution complète pour votre maison, 100% open-source
+          et simple à prendre en main.
         </p>
       </div>
 

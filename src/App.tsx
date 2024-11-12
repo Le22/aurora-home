@@ -11,7 +11,7 @@ function App() {
   const { scrollYProgress } = useScroll();
 
   const translateY = useTransform(scrollYProgress, [0, 1], [0, -3000]);
-  const translateYMini = useTransform(scrollYProgress, [0, 1], [0, -1000]);
+  const translateYMini = useTransform(scrollYProgress, [0, 1], [0, -2000]);
 
   return (
     <main className="bg-black">
@@ -23,7 +23,7 @@ function App() {
           }}
           className="w-full h-screen absolute top-0 -z-0"
         >
-          <img src="/presentation.jpg" alt="Aurora" className="w-full h-full" />
+          <img src="presentation.jpg" alt="Aurora" className="w-full h-full" />
         </motion.div>
         <motion.div
           style={{

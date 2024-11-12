@@ -7,7 +7,7 @@ const Slogan = () => {
         <h2 className="font-medium text-4xl text-white">
           Vous êtes passionné par l'IoT et l'open source ?
         </h2>
-        <p className="text-white leading-[150%] text-lg">
+        <p className="leading-[150%] text-lg text-neutral-300">
           Rejoignez notre projet !
           <br />
           Nous créons un boîtier intelligent équipé de capteurs
