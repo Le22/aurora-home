@@ -9,7 +9,7 @@ export function Sensors() {
   return (
     <div className="w-full h-full py-20 dark bg-black" id="aurora-text">
       <h2 className="max-w-7xl pl-4 mx-auto text-xl md:text-5xl font-bold text-neutral-800 dark:text-neutral-200 font-sans">
-        Une solutions complète
+        Une solution complète
       </h2>
       <Carousel items={cards} />
     </div>
@@ -28,7 +28,7 @@ const data = [
     src: "/luminosity.webp",
   },
   {
-    category: "Product",
+    category: "Thermomètre",
     title: "",
     src: "/thermometre.webp",
   },

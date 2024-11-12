@@ -40,7 +40,7 @@ function App() {
         </a>
         <div className="absolute bottom-0 right-0 flex flex-col space-y-10 text-white p-10">
           <p className="text-4xl uppercase">
-            Tout les données de votre
+            Toutes les données de votre
             <br /> maison à un seul endroit
           </p>
           <a href="#aurora-text" className="underline uppercase cursor-pointer">
@@ -49,10 +49,10 @@ function App() {
         </div>
         <div className="absolute bottom-0 left-0 flex flex-col space-y-10 text-white p-10">
           <p className="text-4xl uppercase">
-            Une solution <br /> 100% open-source
+            Une solution <br /> 100% open source
           </p>
           <p className="uppercase cursor-pointer">
-            Concevez vous même votre Aurora{" "}
+            Concevez vous-même votre Aurora.
           </p>
         </div>
       </div>

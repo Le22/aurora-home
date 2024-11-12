@@ -5,15 +5,15 @@ import { motion } from "framer-motion";
 export function Features() {
   const features = [
     {
-      title: "100% open-source",
+      title: "100% opensource",
       description:
-        "Concevez vous même votre Aurora, et partagez vos créations avec la communauté.",
+        "Concevez vous-même votre Aurora, et partagez vos créations avec la communauté.",
       skeleton: <SkeletonOne />,
       className:
         "col-span-1 lg:col-span-4 border-b lg:border-r dark:border-neutral-800",
     },
     {
-      title: "Compatiblité optimale",
+      title: "Compatibilité optimale",
       description:
         "Aurora est compatible avec tous les systèmes domotique, et peut être utilisé avec n'importe quel appareil.",
       skeleton: <SkeletonTwo />,
@@ -28,7 +28,7 @@ export function Features() {
         "col-span-1 lg:col-span-3 lg:border-r  dark:border-neutral-800",
     },
     {
-      title: "Plusieurs outil en un",
+      title: "Plusieurs outils en un",
       description:
         "Aurora regroupe plusieurs outils en un seul, pour vous simplifier la vie.",
       skeleton: <SkeletonFour />,
